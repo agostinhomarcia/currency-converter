@@ -32,7 +32,7 @@
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/agostinhomarcia" target="_blank">Author</a>&#xa0; | &#xa0
-  <a href="" target="_blank" rel="noopener noreferrer">Projeto</a>
+  <a href="https://currency-converter-swart-five.vercel.app/" target="_blank" rel="noopener noreferrer">Projeto</a>
 </p>
 
 <br>
@@ -86,7 +86,7 @@ This project is under the [MIT license](./License).
 Made with love by [Márcia Agostinho](https://github.com/agostinhomarcia) 🚀.
 
 <p align="center">
-   <img src="https://media.giphy.com/media/KDCeTkQql6ifS/giphy.gif" alt="game" width="350"/>
+   <img src="https://media.giphy.com/media/OePUHiZSZwRmzZJHtI/giphy.gif" alt="currency" width="350"/>
 </p>
 
 &#xa0;
